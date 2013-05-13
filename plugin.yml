@@ -1,0 +1,12 @@
+name: Welcomer
+main: com.imaboy321.welcomer.main
+description: Welcome People!
+version: 1.1.0
+author: imaboy321
+
+commands:
+  welcome:
+   description: Welcome someone to the server!
+  welcomer:
+   description: Base command for welcomer!
+
